@@ -1,0 +1,41 @@
+table{
+    border: 3px solid black;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+
+table thead{
+    background: black;
+    color: white;
+}
+
+table tr td{
+    font-size: 24;
+}
+
+.table-title{
+    text-align: center;
+}
+
+.table-green {
+background-color: rgb(38, 173, 38);
+border: 1px solid black;
+}
+
+.table-red {
+    background-color: red;
+    border: 1px solid black;
+}
+
+.table-orange {
+    background-color: orange;
+    border: 1px solid black;
+}
+.reset-btn {
+    margin-left: 47%;
+    font-size: xx-large;
+    margin-bottom: 100px;
+}
